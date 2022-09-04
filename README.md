@@ -3,7 +3,7 @@
 <!--
 **linayang76/linayang76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi! My name is Lina Yang and I am a rising grade 12 student at Fraser Heights Secondary School.
+My name is Lina Yang and I am a rising grade 12 student at Fraser Heights Secondary School.
 
 - 🔭 I’m currently working on my personal website!
 - 🌱 I’m currently learning python.
