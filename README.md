@@ -8,7 +8,6 @@ My name is Lina Yang and I am a rising grade 12 student at Fraser Heights Second
 - 🔭 I’m currently working on my personal website!
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on new projects.
-- 💬 Ask me about ...
 - 📫 How to reach me: IG:@_linayangg or Email: lina.yang2016@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love dimsum!
+- ⚡ Fun fact: I love cats!
